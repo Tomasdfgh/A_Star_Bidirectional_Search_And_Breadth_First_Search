@@ -1,4 +1,4 @@
-# README for ROB311 Artificial Intelligence
+# A*, Bidirectional Search, and Breadth First Search
 
 ## Introduction
 
